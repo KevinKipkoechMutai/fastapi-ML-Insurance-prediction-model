@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/7e89c67501514dbaaafd92d3fedbf834/artifacts
+end_time: 1735790550826
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 7e89c67501514dbaaafd92d3fedbf834
+run_name: shivering-worm-528
+run_uuid: 7e89c67501514dbaaafd92d3fedbf834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735790549864
+status: 4
+tags: []
+user_id: kevinmutai

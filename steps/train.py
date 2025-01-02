@@ -5,8 +5,8 @@ from sklearn.preprocessing import StandardScaler, OneHotEncoder, MinMaxScaler
 from sklearn.compose import ColumnTransformer
 from imblearn.over_sampling import SMOTE
 from imblearn.pipeline import Pipeline 
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import GradientBoostingRegressor, RandomForestClassifier, GradientBoostingClassifier, RandomForestRegressor
+from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
 
 class Trainer:
     def __init__(self):
@@ -45,10 +45,14 @@ class Trainer:
         ])
 
         return pipeline
+       
 
     def feature_target_separator(self, data):
         X = data.iloc[:, :-1]
         y = data.iloc[:, -1]
+
+        if y.isnull().any():
+            y = y.fillna(y.mean())
         return X, y
 
     def train_model(self, X_train, y_train):
