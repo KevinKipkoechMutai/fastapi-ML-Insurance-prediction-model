@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/581146af6aa5442c806edfbca31c464d/artifacts
+end_time: 1735844203075
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 581146af6aa5442c806edfbca31c464d
+run_name: judicious-wren-88
+run_uuid: 581146af6aa5442c806edfbca31c464d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735844202133
+status: 4
+tags: []
+user_id: kevinmutai
