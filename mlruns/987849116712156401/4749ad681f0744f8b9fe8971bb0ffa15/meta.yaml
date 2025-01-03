@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/4749ad681f0744f8b9fe8971bb0ffa15/artifacts
+end_time: 1735932973334
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 4749ad681f0744f8b9fe8971bb0ffa15
+run_name: casual-cod-606
+run_uuid: 4749ad681f0744f8b9fe8971bb0ffa15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735932972427
+status: 4
+tags: []
+user_id: kevinmutai
