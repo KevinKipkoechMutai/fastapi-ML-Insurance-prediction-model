@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/b7adaec643f2429b9c4f0ae00f0e01e1/artifacts
+end_time: 1735846500953
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: b7adaec643f2429b9c4f0ae00f0e01e1
+run_name: silent-crab-668
+run_uuid: b7adaec643f2429b9c4f0ae00f0e01e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735846500159
+status: 4
+tags: []
+user_id: kevinmutai

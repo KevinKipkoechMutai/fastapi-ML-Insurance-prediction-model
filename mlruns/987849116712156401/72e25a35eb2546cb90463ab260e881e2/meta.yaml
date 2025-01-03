@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/72e25a35eb2546cb90463ab260e881e2/artifacts
+end_time: 1735845621656
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 72e25a35eb2546cb90463ab260e881e2
+run_name: popular-stoat-706
+run_uuid: 72e25a35eb2546cb90463ab260e881e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735845620869
+status: 4
+tags: []
+user_id: kevinmutai

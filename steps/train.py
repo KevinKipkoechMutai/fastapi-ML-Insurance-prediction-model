@@ -1,7 +1,7 @@
 import os
 import joblib
 import yaml
-from sklearn.preprocessing import StandardScaler, OneHotEncoder, MinMaxScaler
+from sklearn.preprocessing import StandardScaler, OneHotEncoder, MinMaxScaler, LabelEncoder
 from sklearn.compose import ColumnTransformer
 from imblearn.over_sampling import SMOTE
 from imblearn.pipeline import Pipeline 
@@ -53,7 +53,11 @@ class Trainer:
 
         if y.isnull().any():
             y = y.fillna(y.mean())
-        return X, y
+        
+       # lab = LabelEncoder()
+        # y = lab.fit_transform(y)
+
+        return X,y
 
     def train_model(self, X_train, y_train):
         self.pipeline.fit(X_train, y_train)

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/c2222d45a1d54dcf86dd6fa5c29545cb/artifacts
+end_time: 1735927422826
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: c2222d45a1d54dcf86dd6fa5c29545cb
+run_name: spiffy-crane-548
+run_uuid: c2222d45a1d54dcf86dd6fa5c29545cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735927421939
+status: 4
+tags: []
+user_id: kevinmutai

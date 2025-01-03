@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/8539c4155d4c4a6cb78d06cf3dfe8f55/artifacts
+end_time: 1735845919351
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 8539c4155d4c4a6cb78d06cf3dfe8f55
+run_name: angry-fish-790
+run_uuid: 8539c4155d4c4a6cb78d06cf3dfe8f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735845918583
+status: 4
+tags: []
+user_id: kevinmutai
