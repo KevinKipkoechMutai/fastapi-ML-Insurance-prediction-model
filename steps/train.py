@@ -54,8 +54,8 @@ class Trainer:
         if y.isnull().any():
             y = y.fillna(y.mean())
         
-       # lab = LabelEncoder()
-        # y = lab.fit_transform(y)
+        lab = LabelEncoder()
+        y = lab.fit_transform(y)
 
         return X,y
 
